@@ -1,0 +1,37 @@
+Shape: circle, radius: 5.5, color: RED
+95.03317777109123
+34.55751918948772
+RED
+false
+Shape: circle, radius: 5.5, color: RED
+95.03317777109123
+34.55751918948772
+RED
+false
+5.5
+Rectangle{width=1.0, length=2.0, color='RED', filled=false}
+2.0
+6.0
+RED
+Rectangle{width=1.0, length=2.0, color='RED', filled=false}
+2.0
+RED
+2.0
+Square{side=6.6, color='unknown', filled=false}
+43.559999999999995
+unknown
+Square{side=6.6, color='unknown', filled=false}
+43.559999999999995
+unknown
+6.6
+Square{side=6.6, color='unknown', filled=false}
+43.559999999999995
+unknown
+6.6
+6.6
+--------------------------------
+
+MovableRectangle{topLeft=MovablePoint{x=2, y=2, xSpeed=-5, ySpeed=9}, bottomRight=MovablePoint{x=25, y=13, xSpeed=-5, ySpeed=9}}
+MovableRectangle{topLeft=MovablePoint{x=-3, y=11, xSpeed=-5, ySpeed=9}, bottomRight=MovablePoint{x=20, y=22, xSpeed=-5, ySpeed=9}}
+
+Process finished with exit code 0

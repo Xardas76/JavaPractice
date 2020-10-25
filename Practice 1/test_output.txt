@@ -1,0 +1,20 @@
+Bobik, age: 3
+Sharik, age: 11
+Barbos, age: 7
+Sharik's age in human years is 77
+
+
+
+basketball
+Unknown
+Ball for football by Nike, 21 inches
+
+
+
+poem: Iliad by Homer, published in 2020
+poem: Odyssey by Homer, published in -800
+unknown: Unknown by Unknown, published in 2020
+Odyssey was published 2820 years ago
+Unknown was published in this year
+
+Process finished with exit code 0
