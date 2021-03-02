@@ -3,6 +3,7 @@ package com.company;
 public class Test {
 
     public static void main(String[] args) {
+        System.out.println("And now starts test!");
         Shape s1 = new Circle(5.5, "RED", false);
         System.out.println(s1);
         System.out.println(s1.getArea());
