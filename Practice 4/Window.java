@@ -13,6 +13,7 @@ public class Window extends JFrame {
 
     private int score1 = 0;
     private int score2 = 0;
+    private int just_another_score = 0;
 
     private final JLabel result;
     private final JLabel last_scorer;
