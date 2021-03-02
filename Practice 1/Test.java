@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("So we are starting tests now");
         Dog[] pets = new Dog[3];
         Dog bobik = new Dog("Bobik", 3);
         Dog sharik = new Dog("Sharik");
