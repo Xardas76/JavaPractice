@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Test {
 
     public static void main(String[] args) {
+        System.out.println("------------------------");
         System.out.println(Exercise10.flipInt(12345));
         System.out.println("------------------------");
         System.out.println(Exercise11.startSequence());
